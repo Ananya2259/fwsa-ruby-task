@@ -210,4 +210,4 @@ yyyy-mm-dd Pending : 1 Completed : 4
 
 Once you're done working on this app, create a new ZIP file of this directory after removing any binary files, or dependencies like `node_modules` from your directory. The zipped directory should contain only text files like the `todo.rb`, `README.md`, etc.
 
-Use your full name as the name of the ZIP file, and reply to the email you received, with the ZIP file as an attachment.
+Use your full name as the name of the ZIP file, and upload your work as a DM to _Hari_ on Slack.
